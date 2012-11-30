@@ -1,0 +1,16 @@
+gnome:
+  attack_text: hits you with a club!
+  max_hit_points: 8
+  strength: 5
+  speed: 9
+troll:
+  attack_text: attacks you with a pickaxe!
+  max_hit_points: 12
+  strength: 10
+  speed: 5
+rabbit:
+  attack_text: bites you with sharp, pointy teeth!
+  max_hit_points: 50
+  strength: 50
+  speed: 50
+  
